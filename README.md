@@ -1,6 +1,6 @@
-# Appoloosa (Reports): A-Machine Book Style
+# Appoloosa (Reports): A-Machine Publication Style
 
-Demo or publication style and workflow for the style Appoloosa for reports
+Demo publication style for reports
 
 ![Appaloosa horse](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/THIEL_619.jpg/450px-THIEL_619.jpg) 
 
