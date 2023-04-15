@@ -158,8 +158,8 @@
   }
 
 /*Page size*/
-  
-  @page {
+
+@page {
     size: 210mm 297mm;
     margin-top: 20mm;
     margin-bottom: 30mm;
@@ -169,7 +169,7 @@
   
   @page: first {
     size: 210mm 297mm;
-    background-image: linear-gradient(#F5F4EF,#F5F4EF 75%,#56ACF6, #9dcef8 25%);
+    background-image: linear-gradient(#F5F4EF,#F5F4EF 73%,#56ACF6, #9dcef8 27%);
     background-size: 210mm 297mm;
     display: flex;
     margin-top: 30mm;
@@ -184,8 +184,8 @@
   }
 
 /*Verso - left page*/ 
-  
-  @page: left {
+
+@page: left {
     margin-left: 15mm;
     margin-right: 20mm;
     @top-left {
@@ -218,9 +218,9 @@
         @bottom-right { width: 15%; }
     }
 
-/*Recto - right page*/     
+    /*Recto - right page*/
   
-  @page: right {
+@page: right {
     margin-left: 20mm;
     margin-right: 15mm;
     @top-right {
@@ -253,8 +253,8 @@
   }
 
 /*Blank page*/ 
-  
-  @page: blank {
+ 
+@page: blank {
     @bottom-left {content: normal;}
     @bottom-right {content: normal;}
     @top-center {content: normal;}
@@ -264,7 +264,7 @@
 
 /*HTML basics*/ 
 
-  html {
+html {
     font-size: 18px;
     font-weight: 300;
     color: #000;
@@ -272,8 +272,8 @@
     overflow-wrap: break-word;
     word-wrap: break-word;
   }
-  html body { background-color: transparent!important;}
-  body {
+html body { background-color: transparent!important;}
+body {
     counter-reset: chapter figure-cat-figure figure-cat-photo figure-cat-table footnote-counter footnote-marker-counter;
     overflow-wrap: break-word;
   }
@@ -1019,7 +1019,7 @@ h1.article-bibliography-header {
     margin-left: 0;
     margin-right: 0;
     padding-left: 18px;
-    font-size:  0.8837rem!important;
+    font-size:  0.8837rem !important;
     line-height: 1.37;
     hyphens: none;
   }
@@ -1099,11 +1099,7 @@ h1.article-bibliography-header {
     font-family: "Inter", sans-serif;
     text-align: left;
     text-indent: 0;
-  }
-  
-  table ol,
-  table ul {
-    /*list-style-position: outside;*/
+     /*list-style-position: outside;*/
   }
   
   table li {
@@ -1113,7 +1109,6 @@ h1.article-bibliography-header {
   tr:first-of-type th {
     padding-top: 1.1em;
     padding-bottom: 1.1em;
-  
   }
   
   tr:first-of-type td {
@@ -1127,8 +1122,6 @@ h1.article-bibliography-header {
   tr:nth-child(even) {
     background-color: #fde5cd;
   }
-  
-  
   tr:last-of-type td {
     padding-bottom: 0.6em;
   }
@@ -1228,7 +1221,6 @@ h1.article-bibliography-header {
     word-spacing: 0.2pt !important;
   }
   
-  
   ol.upper-latin {
     list-style-type: upper-latin;
   }
@@ -1309,6 +1301,5 @@ h1.article-bibliography-header {
   /*.epub nav li a:hover {
     border-bottom: 1px solid;
   }*/
-
 
 
