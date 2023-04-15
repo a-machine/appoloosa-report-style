@@ -1,4 +1,4 @@
-/*Appaloosa (Report) - publication style: Version: 2023-04-07T10:11:39Z Repo link: TBC */
+/*Appaloosa (Report) - publication style: Version: 2023-04-07T10:11:39Z Repo link: https://github.com/a-machine/appoloosa-report-style*/
 
 /*body*/
 
@@ -6,84 +6,84 @@
   font-family: "Inter";
   font-weight: 400;
   font-style: normal;
-  src: local('Inter Regular'), local('Inter-Regular'), url(Inter-Regular.ttf) format('truetype');
+  src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 400;
       font-style: italic;
-      src: local('Inter Italic'), local('Inter-Italic'), url(Inter-Italic.ttf) format('truetype');
+      src: local('Inter Italic'), local('Inter-Italic'), url(media/Inter-Italic.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: bold;
       font-style: normal;
-      src: local('Inter Bold'), local('Inter-Bold'), url(Inter-Bold.ttf) format('truetype');
+      src: local('Inter Bold'), local('Inter-Bold'), url(media/Inter-Bold.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: bold;
       font-style: italic;
-      src: local('Inter Bold Italic'), local('Inter-BoldItalic'), url(Inter-BoldItalic.ttf) format('truetype');
+      src: local('Inter Bold Italic'), local('Inter-BoldItalic'), url(media/Inter-BoldItalic.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 500;
       font-style: normal;
-      src: local('Inter Medium'), local('Inter-Medium'), url(Inter-Medium.ttf) format('truetype');
+      src: local('Inter Medium'), local('Inter-Medium'), url(media/Inter-Medium.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 500;
       font-style: italic;
-      src: local('Inter Medium Italic'), local('Inter-MediumItalic'), url(Inter-MediumItalic.ttf) format('truetype');
+      src: local('Inter Medium Italic'), local('Inter-MediumItalic'), url(media/Inter-MediumItalic.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 600;
       font-style: normal;
-      src: local('Inter SemiBold'), local('Inter-SemiBold'), url(Inter-SemiBold.ttf) format('truetype');
+      src: local('Inter SemiBold'), local('Inter-SemiBold'), url(media/Inter-SemiBold.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 600;
       font-style: italic;
-      src: local('Inter SemiBold Italic'), local('Inter-SemiBoldItalic'), url(Inter-SemiBoldItalic.ttf) format('truetype');
+      src: local('Inter SemiBold Italic'), local('Inter-SemiBoldItalic'), url(media/Inter-SemiBoldItalic.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 300;
       font-style: normal;
-      src: local('Inter Light'), local('Inter-Light'), url(Inter-Light.ttf) format('truetype');
+      src: local('Inter Light'), local('Inter-Light'), url(media/Inter-Light.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 300;
       font-style: italic;
-      src: local('Inter Light Italic'), local('Inter-LightItalic'), url(Inter-LightItalic.ttf) format('truetype');
+      src: local('Inter Light Italic'), local('Inter-LightItalic'), url(media/Inter-LightItalic.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 200;
       font-style: normal;
-      src: local('Inter ExtraLight'), local('Inter-ExtraLight'), url(Inter-ExtraLight.ttf) format('truetype');
+      src: local('Inter ExtraLight'), local('Inter-ExtraLight'), url(media/Inter-ExtraLight.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Inter";
       font-weight: 200;
       font-style: italic;
-      src: local('Inter ExtraLight Italic'), local('Inter-ExtraLightItalic'), url(Inter-ExtraLightItalic.ttf) format('truetype');
+      src: local('Inter ExtraLight Italic'), local('Inter-ExtraLightItalic'), url(media/Inter-ExtraLightItalic.ttf) format('truetype');
   }
 
     /*Headers ALT #1*/
@@ -92,28 +92,28 @@
       font-family: "Arvo";
       font-weight: bold;
       font-style: normal;
-      src: local('Arvo Bold'), local('Arvo-Bold'), url(Arvo-Bold.ttf) format('truetype');
+      src: local('Arvo Bold'), local('Arvo-Bold'), url(media/Arvo-Bold.ttf) format('truetype');
       }
     
       @font-face {
         font-family: "Arvo";
         font-weight: 600;
         font-style: normal;
-        src: local('Arvo Bold'), local('Arvo-Bold'), url(Arvo-Bold.ttf) format('truetype');
+        src: local('Arvo Bold'), local('Arvo-Bold'), url(media/Arvo-Bold.ttf) format('truetype');
     }
     
     @font-face {
         font-family: "Arvo";
         font-weight: 500;
         font-style: normal;
-        src: local('Arvo Bold'), local('Arvo-Bold'), url(Arvo-Bold.ttf) format('truetype');
+        src: local('Arvo Bold'), local('Arvo-Bold'), url(media/Arvo-Bold.ttf) format('truetype');
     }
     
     @font-face {
         font-family: "Arvo";
         font-weight: 400;
         font-style: normal;
-        src: local('Arvo Regular'), local('Arvo-Regular'), url(Arvo-Regular.ttf) format('truetype');
+        src: local('Arvo Regular'), local('Arvo-Regular'), url(media/Arvo-Regular.ttf) format('truetype');
     }
   
   /*Secondary headers*/
@@ -122,35 +122,35 @@
       font-family: "Roboto Slab";
       font-weight: 600;
       font-style: normal;
-      src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'), url(RobotoSlab-SemiBold.ttf) format('truetype');
+      src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'), url(media/RobotoSlab-SemiBold.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Roboto Slab";
       font-weight: 500;
       font-style: normal;
-      src: local('Roboto Slab Medium'), local('RobotoSlab-Medium'), url(RobotoSlab-Medium.ttf) format('truetype');
+      src: local('Roboto Slab Medium'), local('RobotoSlab-Medium'), url(media/RobotoSlab-Medium.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Roboto Slab";
       font-weight: 400;
       font-style: normal;
-      src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(RobotoSlab-Regular.ttf) format('truetype');
+      src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(media/RobotoSlab-Regular.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Roboto Slab";
       font-weight: 300;
       font-style: normal;
-      src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(RobotoSlab-Light.ttf) format('truetype');
+      src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(media/RobotoSlab-Light.ttf) format('truetype');
   }
   
   @font-face {
       font-family: "Roboto Slab";
       font-weight: 200;
       font-style: normal;
-      src: local('Roboto Slab ExtraLight'), local('RobotoSlab-ExtraLight'), url(RobotoSlab-ExtraLight.ttf) format('truetype');
+      src: local('Roboto Slab ExtraLight'), local('RobotoSlab-ExtraLight'), url(media/RobotoSlab-ExtraLight.ttf) format('truetype');
   }
   
   *{
@@ -429,7 +429,7 @@ body {
 
 div.titlepage {
   height: 100vh;
-  background-image: url("qr.png");
+  background-image: url("media/qr.png");
   /*-webkit-filter: drop-shadow( -5px 5px 5px rgb(165, 165, 165) );
   filter: drop-shadow( -5px 5px 5px rgb(146, 8, 8)); */
   background-position: 0% 100%;
@@ -1019,14 +1019,13 @@ h1.article-bibliography-header {
     margin-left: 0;
     margin-right: 0;
     padding-left: 18px;
-    font-size:  0.8837rem !important;
+    font-size:  0.8837rem!important;
     line-height: 1.37;
     hyphens: none;
   }
   ol li {
     margin-bottom: 0.5em;
   }
-  
   
   table {
     margin: 0 auto;
@@ -1063,7 +1062,7 @@ h1.article-bibliography-header {
     /*border-top: 1px solid rgb(231,231,231);
     border-bottom: 1px solid #435772;*/
     padding: 1em 0;
-    font-size:  0.82rem;
+    font-size: 0.72rem;
     text-align: left;
     margin: 0 auto;
     vertical-align: middle;
@@ -1117,10 +1116,10 @@ h1.article-bibliography-header {
     border-bottom: 2px solid rgb(15,100,167);*/
   }
   tr:nth-child(odd) {
-    background-color: #FDD5A5;
+    background-color: #F5F4EF;
   }
   tr:nth-child(even) {
-    background-color: #fde5cd;
+    background-color: #EAEFEE;
   }
   tr:last-of-type td {
     padding-bottom: 0.6em;
@@ -1134,13 +1133,12 @@ h1.article-bibliography-header {
     border-left: 0;
     border-right: 0;
     padding: 1em;
-    font-style: italic;
-    font-weight: bold;
-    background-color: #2062af;/*#111111*/
-    border-bottom: 2px solid #20215E;
+    font-weight: 600;
+    background-color: #92C9F9;/*#111111*/
+    border-bottom: 1px solid #000000;
   }
   
-  th p { color: #fff; }
+  th p { color: #000000; }
   
   tr:first-of-type {
       font-weight: normal;
@@ -1301,5 +1299,3 @@ h1.article-bibliography-header {
   /*.epub nav li a:hover {
     border-bottom: 1px solid;
   }*/
-
-

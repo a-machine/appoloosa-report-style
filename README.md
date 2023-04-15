@@ -26,3 +26,9 @@ Style name: Appaloosa (Report).
 
 See repo top level: pdf.pdf
 
+## Style details
+
+Palette https://coolors.co/user/palettes/625c395c28f357000a100672
+
+Fonts 
+
